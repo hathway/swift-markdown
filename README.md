@@ -1,3 +1,7 @@
+# DEPRECATED
+
+No longer required as of 2022-06-10
+
 # Swift Markdown
 
 Swift `Markdown` is a Swift package for parsing, building, editing, and analyzing Markdown documents.
